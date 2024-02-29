@@ -20,5 +20,9 @@
     "url": "https://github.com/Tea-Protocol/useModelData/issues"
   },
   "homepage": "https://github.com/Tea-Protocol/useModelData#readme",
-  "devDependencies": {}
+  "devDependencies": {},
+  "dependencies": {
+    "react": "16.14.0",
+    "react-redux": "^7.2.1",
+  }
 }
