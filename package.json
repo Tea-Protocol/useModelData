@@ -23,6 +23,6 @@
   "devDependencies": {},
   "dependencies": {
     "react": "16.14.0",
-    "react-redux": "^7.2.1",
+    "react-redux": "^7.2.1"
   }
 }
